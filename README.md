@@ -33,10 +33,5 @@ python manage.py runserver
 # Para frenar el programa utilizamos ctrl + c
 
 ```
-## API Documentation
-Loot at here for detailed documentation!
-
-https://documenter.getpostman.com/view/13014433/TWDUoxXJ
-
 
 
